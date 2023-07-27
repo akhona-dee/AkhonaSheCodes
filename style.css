@@ -3,3 +3,10 @@ h1 {
         color: red;
         font-weight: 200px;
     }
+
+p {
+    color: black;
+    text-align: center;
+    text-decoration: underline;
+    font-size: 30px;
+}
